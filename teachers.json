@@ -1,0 +1,26 @@
+{
+    "T01":{
+        "name":"Shahid",
+        "subjects":["Python"],
+        "preferences":{
+            "prefered_days":["Monday","tuesday"],
+            "unavailable_days":["friday"]
+    }
+},
+"To2":{
+    "name":"Taimor",
+        "subjects":["c#"],
+        "preferences":{
+            "prefered_days":["friday","tuesday"],
+            "unavailable_days":["thursday"]
+}
+},
+"T03":{
+    "name":"kalsoom",
+        "subjects":["Fundamentals"],
+        "preferences":{
+            "prefered_days":["friday","we"],
+            "unavailable_days":["thursday"]
+}
+}
+}

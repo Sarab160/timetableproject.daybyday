@@ -1,0 +1,14 @@
+{
+    "python":{
+        "type":"Theory",
+        "duration":1
+    },
+    "c#":{
+        "type":"Theory",
+        "duration":1
+    },
+    "Fundamentals":{
+        "type":"Lab",
+        "duration":3
+    }
+}
