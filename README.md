@@ -1,4 +1,4 @@
-# 📅 Day 03 – Timetable PDF Export Feature Added
+# 📅 Day 04 – Timetable PDF Export Feature Added
 ## ✅ What’s New
 PDF export functionality has been implemented for the timetable.
 
