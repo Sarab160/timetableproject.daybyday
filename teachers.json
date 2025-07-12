@@ -3,15 +3,15 @@
         "name":"Shahid",
         "subjects":["Python"],
         "preferences":{
-            "preferred_days":["Monday","tuesday"],
-            "unavailable_days":["friday"]
+            "preferred_days":["Monday","Tuesday"],
+            "unavailable_days":["Friday"]
     }
 },
 "T002":{
     "name":"Taimor",
         "subjects":["c#"],
         "preferences":{
-            "preferred_days":["friday","tuesday"],
+            "preferred_days":["riday","tuesday"],
             "unavailable_days":["thursday"]
 }
 },

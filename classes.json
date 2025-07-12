@@ -1,8 +1,10 @@
 {
     "A":{
+        "name":"Software",
         "subjects":["Python","C#"]
     },
     "B":{
+        "name":"computer sccience",
         "subjects":["Fundamentals"]
     }
 }
